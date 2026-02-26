@@ -1,7 +1,7 @@
 ## Title: |cff00d1ffFDP|r|cffffffffUI|r
 ## Notes: FDPUI
 ## Author: fdpui
-## Version: 20260225.01
+## Version: 20260226.01
 ## SavedVariables: FDPDB
 ## OptionalDeps: ElvUI
 ## Interface: 11508
