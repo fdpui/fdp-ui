@@ -1,11 +1,11 @@
 ## Title: |cff00d1ffFDP|r|cffffffffUI|r
 ## Notes: FDPUI
-## Author: rootkit1337
+## Author: fdpui
 ## Version: 20260225.01
 ## SavedVariables: FDPDB
 ## OptionalDeps: ElvUI
 ## Interface: 120001, 50503, 20505
-## X-Wago-ID: n6VPvLGd
+## X-Wago-ID: kNM38QKz
 ## AddonCompartmentFunc: FDPUI_AddonCompartmentFunc
 ## IconTexture: Interface\AddOns\FDPUI\Game\Shared\Media\Textures\LogoAddon
 ## Category-enUS: User Interface

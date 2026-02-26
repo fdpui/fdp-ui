@@ -1,0 +1,5 @@
+package-as: FDPUI
+
+ignore:
+  - .github
+  - .wago
