@@ -1,0 +1,12 @@
+## Title: |cff00d1ffFDP|r|cffffffffUI|r
+## Notes: FDPUI
+## Author: rootkit1337
+## Version: 20260224.01
+## SavedVariables: FDPDB
+## OptionalDeps: ElvUI
+## Interface: 11508
+## X-Wago-ID: n6VPvLGd
+
+embeds.xml
+
+Game\Vanilla\!load.xml
